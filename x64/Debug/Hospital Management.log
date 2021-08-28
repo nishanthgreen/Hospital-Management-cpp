@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\PROJECTS\Hospital Management system\Hospital Management\Source.cpp(257,14): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+E:\PROJECTS\Hospital Management system\Hospital Management\Source.cpp(281,14): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+  Hospital Management.vcxproj -> E:\PROJECTS\Hospital Management system\Hospital Management\x64\Debug\Hospital Management.exe
